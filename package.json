@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Bondifrench/Node-Mithril-Chat",
   "dependencies": {
     "express": "^4.10.4",
+    "morgan": "^1.5.0",
     "socket.io": "^1.2.1"
   }
 }
