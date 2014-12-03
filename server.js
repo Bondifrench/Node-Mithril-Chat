@@ -10,6 +10,7 @@ app.use(logger('dev'));
 
 app.get('*', function (req, res) {
 	res.sendfile('./index.html')
+});
 
 app.use(function (err, req, res, next) {
 	console.log(err.stack);
