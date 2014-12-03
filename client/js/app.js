@@ -47,7 +47,7 @@ chat.view = function (ctrl) {
 				chat.vm.list.map(function (msg, i) {
 					return m('div', 
 						m('b', (msg.name? msg.name:'Server' )+': '),
-						m('', msg.message)
+						m('span', msg.message)
 						)
 				})]),
 			m("div", "Name: ",
