@@ -28,7 +28,7 @@ He maintains a very useful [blog](http://lhorie.github.io/mithril-blog) and a [m
 
 ---
 
-For more info on the others technologies used in this app:  
+For more info on the other technologies used in this app:  
 For *Node.js* Check the following link: [Node.js](http://nodejs.org)  
 For *ExpressJS* Check the following link:[Express](http://expressjs.com)  
 For *Socket.io* Check the following link:[Socket.io](http://socket.io)
