@@ -23,8 +23,8 @@ To learn more about **Mithril** Check the following link:[Mithril](http://lhorie
 - Virtual DOM diffing and compilable templates
 - Intelligent auto-redrawing system
 
-Created by [Leo Horie](https://github.com/lhorie/), this includes a lot of lessons learned and best practices, it is focused on improving your javascript, using Object Oriented programming and Functional Programming (map, filter, reduce) rather than you learning an additional framework.
-He maintains a very useful blog here: [blog](http://lhorie.github.io/mithril-blog) and a [mailing list](https://groups.google.com/forum/#!forum/mithriljs) with useful recipes and observations on how to improve the structure of your code.  
+Created by [Leo Horie](https://github.com/lhorie/), this framework is the result of a lot of lessons learned and best practices, it is focused on improving your javascript, using Object Oriented programming and Functional Programming methods (map, filter, reduce etc..) present in ECMAScript5 rather than you learning an additional framework.
+He maintains a very useful [blog](http://lhorie.github.io/mithril-blog) and a [mailing list](https://groups.google.com/forum/#!forum/mithriljs) with useful recipes and observations on how to improve the structure of your code.  
 
 ---
 
