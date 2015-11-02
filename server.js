@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, '/client')));
 app.use(logger('dev'));
 
 app.get('*', function (req, res) {
-	res.sendfile('./index.html')
+	res.sendFile('index.html', {root: __dirname + '/client/'})
 });
 
 app.use(function (err, req, res, next) {
